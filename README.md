@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300"/>
 </div>
 
-<br>
+---
 
 <div id="badges" align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
