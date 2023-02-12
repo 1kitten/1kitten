@@ -22,6 +22,6 @@ I am a Python Backend Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 - :telescope: I'm creating backend for web applications using popular technologies.
 
-- :seedling: Exploring new technologies.
+- :joystick: Exploring new technologies.
 
 - :zap: In my free time, I solve problems on LeetCode and read tech articles, sometimes making pet-projects.
