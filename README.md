@@ -22,12 +22,6 @@
 
 ---
 
-### :man_technologist: About Me :
-
-I am a Python Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
-
-- :telescope: I'm creating backend for web applications using popular technologies.
-
-- :joystick: Exploring new technologies.
-
-- :zap: In my free time, I solve problems on LeetCode and read tech articles, sometimes making pet-projects.
+<div align="center">
+  <code>Python Backend-developer</code>
+</div>
