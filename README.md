@@ -18,6 +18,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="nginx" width="60" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/uwsgi/uwsgi-original.svg" alt="uwsgi" width="60" height="40"/>
 </div>
 
 ---
