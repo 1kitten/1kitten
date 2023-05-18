@@ -6,7 +6,7 @@
 
 ---
 
-### ⚒️ Technologies I use
+### 💻 Technologies I use
 
 <p align="center">
   <a href="https://skillicons.dev/">
@@ -17,7 +17,7 @@
   </a>
 </p>
 
-### 💻 Stats
+###  Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=1kitten&show_icons=true&theme=dracula"/>
